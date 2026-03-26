@@ -12,3 +12,9 @@
 - [numerical-methods](https://github.com/mlekstan/numerical-methods)
 - [wireless-techniques](https://github.com/mlekstan/wireless-techniques)
 - [digital-signal-processing](https://github.com/mlekstan/digital-signal-processing)
+
+**Other:**
+- [MNIST-nn](https://github.com/mlekstan/MNIST-nn)
+- [LeetCode](https://github.com/mlekstan/LeetCode)
+- [simple-calculator](https://github.com/mlekstan/simple-calculator)
+- [rick-and-morty-api-wrapper](https://github.com/mlekstan/rick-and-morty-api-wrapper)
